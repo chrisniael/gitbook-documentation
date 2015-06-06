@@ -1,4 +1,4 @@
-# GitBook文档
+# GitBook文档（中文版）
 
 这本书包含了GitBook的所有文档（平台和工具链）
 
@@ -16,4 +16,4 @@ GitBook工具链是开源并且完全免费的，它的源码可以在[GitHub](h
 
 ## 贡献文档
 
-你可以贡献自己的一份力量来完善这个托管在在[GitHub]()上的文档。
+你可以贡献自己的一份力量来完善这个托管在在[GitHub](https://github.com/GitbookIO/documentation)上的文档。
