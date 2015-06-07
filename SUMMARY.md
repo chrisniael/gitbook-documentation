@@ -41,8 +41,8 @@
 * [插件](plugins/README.md)
   * [创建插件](plugins/create.md)
   * [扩展blocks](plugins/blocks.md)
-  * [扩展filters]()
-  * [扩展Assets]()
+  * 扩展filters
+  * 扩展Assets
   * [钩子](plugins/hooks.md)
 * [API](api/README.md)
   * [Books](api/books.md)
