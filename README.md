@@ -17,3 +17,7 @@ GitBook工具链是开源并且完全免费的，它的源码可以在[GitHub](h
 ## 贡献文档
 
 你可以贡献自己的一份力量来完善这个托管在在[GitHub](https://github.com/GitbookIO/documentation)上的文档。
+
+----
+
+{% include "SUMMARY.md" %}
