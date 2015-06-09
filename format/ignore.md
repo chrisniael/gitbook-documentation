@@ -4,11 +4,12 @@ GitBook会读取 `.gitignore`，`.bookignore`，`.ignore` 文件来获取忽略�
 
 这些文件的格式，遵循和 `.gitignore` 同样的约定：
 
-# This is a comment
+```
+# 这是一个注释
 
-# Ignore the file test.md
+# 忽略文件test.md
 test.md
 
-# Ignore everything in the directory "bin"
+# 忽略文件夹 "bin" 中的所有内容
 bin/*
 ```
