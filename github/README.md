@@ -26,7 +26,7 @@ GitBook完美的集成了 [GitHub](https://github.com/) 来托管你书本的源
 **警告**：当你在你书本的设置中指定了一个GitHub仓库，这个仓库会优先于GitBook的git仓库，这意味着编辑器会直接编辑GitHub中的内容。
 
 1. 打开你书本设置中的GitHub部分
-2. 输入你的仓库id（例如：YourGitHubUserName/RepoName）
+2. 输入你的仓库id（例如：`YourGitHubUserName/RepoName`）
 3. 保存你的设置
 4. 点击**Add a deployment webhook**按钮
 
