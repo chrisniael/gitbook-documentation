@@ -1,7 +1,5 @@
 # 编辑器
 
-https://www.gitbook.com/
-
 可以使用在线编辑器来编辑你的书本。每次你保存一个文件的时候，都会构建书本一次。如果想要写一份草稿而不构建书本，请参考“草稿式工作流程”。
 
 ![Preview of the editor](https://www.gitbook.com/assets/images/backgrounds/preview_editor.png)
