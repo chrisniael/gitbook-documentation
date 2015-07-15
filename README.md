@@ -20,6 +20,8 @@ GitBook.com 是一个使用工具链来创建和托管书籍的在线平台 ([ww
 
 开发文档 (API & 插件) 地址 [developer.gitbook.com](http://developer.gitbook.com)。
 
+企业版本的安装向导和手册的地址 [hep.enterprise.gitbook.com](http://help.enterprise.gitbook.com)。 
+
 
 ## 帮助和支持
 
