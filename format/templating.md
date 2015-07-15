@@ -27,6 +27,8 @@
 
 #### 显示变量
 
+定义在 `book.json` 中的变量可以在 `book` 作用域下被访问：
+
 ```
 {{ book.myVariable }}
 ```
