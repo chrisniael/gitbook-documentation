@@ -15,6 +15,7 @@
   * [忽略文件和文件夹](format/ignore.md)
   * [配置](format/configuration.md)
   * [插件](format/plugins.md)
+  * [数学 & TeX](format/math.md)
 * [构建](build/README.md)
   * [使用GIT更新](build/push.md)
   * [常见错误](build/errors.md)

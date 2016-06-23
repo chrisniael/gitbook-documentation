@@ -54,5 +54,5 @@
 Sufficiently advanced technology, beyond the understanding of the observer producing a sense of wonder.
 
 == PHP
-An atrocious language, invented for the sole purpose of inflicting pain and suffering amongst the programming wizards of this world.
++A popular web programming language, used by many large websites such as Facebook. Rasmus Lerdorf originally created PHP in 1994 to power his personal homepage (PHP originally stood for "Personal Home Page" but now stands for "PHP: Hypertext Preprocessor").
 ```

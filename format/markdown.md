@@ -91,7 +91,7 @@ Markdown默认使用的脚注样式链接不会在页面中显示。有时包含
 
 ```markdown
 Text prior to footnote reference.[^2]
-[^2] Comment to include in footnote.
+[^2]: Comment to include in footnote.
 ```
 
 ## 图片
@@ -136,7 +136,7 @@ print s
 
 ## 表格
 
-表格不是Markdown规范的核心部分，但是它是GFM的一部分，*这里的Markdown*也支持它。它能让你很简单的将表格添加至邮件中，而不需要从另一个程序中拷贝粘贴过来。
+表格不是Markdown规范的核心部分，但是它是GFM的一部分，*这里的Markdown*也支持它。
 
 ```markdown
 冒号可以用来对其列。
