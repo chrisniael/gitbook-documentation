@@ -13,6 +13,12 @@ GitBook完美的集成了 [GitHub](https://github.com/) 来托管你书本的源
 * __访问公开的仓库__：从网页编辑器中访问你的GitHub仓库，你可以很容易的在GitBook中编辑你的书本（仅仅公共仓库）
 * __访问私有的仓库__：和上面一项目一样，但是只能访问私有仓库
 
+## 从 GitHub 导入书
+
+创建一本新书的时候，`GitHub` 标签页让你选择一个 GitHub 仓库导入。
+
+新创建的书会使用你仓库的内容，webhook 也会自动添加。
+
 ## Webhooks
 
 当你的GitHub的仓库改变时，Webhooks会通知GitBook。
@@ -38,6 +44,6 @@ GitBook完美的集成了 [GitHub](https://github.com/) 来托管你书本的源
 
 如果你连接了你的GitHub仓库至一个GitBook项目，但是编辑它的内容却没有触发GitBook任何的构建操作。验证webhook被正确的添加到了你的GitHub仓库中（GitHub仓库设置->Webhook），如果webhook不存在或无效，之后添加它到你书本的设置中。
 
-**改变书本的拥有者**
+**改变书本的名字/拥有者**
 
 如果你把你的书本转移给了新的拥有者，之前的wehook会失效，你需要之后重新添加它。
