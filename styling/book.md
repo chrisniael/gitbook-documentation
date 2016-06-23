@@ -23,3 +23,10 @@
 	}
 }
 ```
+
+## 使用 CSS 预处理
+
+这些插件是用来让你更简单的使用 CSS 预处理：
+
+- [styles-less](https://plugins.gitbook.com/plugin/styles-less)
+- [styles-sass](https://plugins.gitbook.com/plugin/styles-sass)
