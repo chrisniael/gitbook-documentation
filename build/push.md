@@ -18,6 +18,19 @@ https://git.gitbook.com/{{UserName}}/{{Book}}.git
 
 git服务器使用你基本的GitBook登录来认证你。当提示的时候，输入你的GitBook用户名和密码（你同样可以使用你的API token）。
 
+## 保存你的凭证
+
+To avoid having to enter your password on each new push, you can add your GitBook credentials to your `~/.netrc` file. Create or append to an existing `~/.netrc` file something like below:
+为了避免每次 push 的时候输入密码，你可以将你的 GitBook 凭证添加到 `~/.netrc` 文件里。将下面内容添加到 `~/.netrc` 文件中：
+
+```
+machine git.gitbook.com
+  login 用户名或邮箱
+  password API-TOKEN或密码
+```
+
+为了安全起见，我们推荐你使用 **API TOKEN**，你可以在 [in your settings under "API"](https://www.gitbook.com/settings#api) 找到它。
+
 ## 在命令行创建一个新的仓库
 
 ```shell

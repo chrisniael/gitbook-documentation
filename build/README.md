@@ -11,7 +11,7 @@
 
 ## 触发构建失败
 
-如果你的书本链接到了GitHub，但GitHub并没有通知GitBook内容改变了（例如：授权被重置了）。关于如何修复这个问题的内容在 [集成GitHub章节](../github.README.md)。
+如果你的书本链接到了GitHub，但GitHub并没有通知GitBook内容改变了（例如：授权被重置了）。关于如何修复这个问题的内容在 [集成GitHub章节](../github/README.md)。
 
 ## 修复构建错误
 
