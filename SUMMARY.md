@@ -33,7 +33,7 @@
 * [个性域名](platform/domains.md)
 * [邮件](platform/mailing.md)
 * [账号](account/README.md)
-  * [账号重复](account/duplicate.md)
+  * [账号复制](account/duplicate.md)
 * [组织](platform/organizations/README.md)
   * [用户的差异](platform/organizations/differences.md)
   * [转变用户](platform/organizations/convert.md)
