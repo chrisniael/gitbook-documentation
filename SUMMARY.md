@@ -21,6 +21,7 @@
   * [使用GIT更新](build/push.md)
   * [常见错误](build/errors.md)
   * [ebook-convert](build/ebookconvert.md)
+* [导入](import/README.md)
 * [集成GitHub](github/README.md)
   * [迁移内容至GitHub](github/transferring-to-github.md)
 * [编辑器](editor/README.md)
