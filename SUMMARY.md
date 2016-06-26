@@ -30,7 +30,7 @@
 * [搜索](platform/search.md)
 * [税收](platform/taxes.md)
 * [可见性](platform/visibility.md)
-* [个性域名](platform/domains.md)
+* [自定义域名](platform/domains.md)
 * [邮件](platform/mailing.md)
 * [账号](account/README.md)
   * [账号复制](account/duplicate.md)
