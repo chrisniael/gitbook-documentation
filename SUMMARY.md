@@ -35,4 +35,4 @@
 * [组织](platform/organizations/README.md)
   * [用户的差异](platform/organizations/differences.md)
   * [转变用户](platform/organizations/convert.md)
-  * [转移组织所有权](platform/organizations/ownership.md)
+  * [转移组织拥有权](platform/organizations/ownership.md)
