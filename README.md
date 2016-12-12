@@ -4,7 +4,7 @@
 
 ## 开源工具链
 
-这个工具链 (GitBook) 是一个使用 Git 和 Markdown 来构建书籍的工具。它可以把你的书本生成为许多格式：PDF，ePub，mobi，或者成为一个网站。
+这个工具链 (GitBook) 是一个使用 Git 和 Markdown 来构建书籍的工具。它可以将你的书输出很多格式：PDF，ePub，mobi，或者输出为静态网页。
 
 GitBook工具链是开源并且完全免费的，它的源码可以在 [GitHub](https://github.com/GitbookIO/gitbook) 上获取。
 
